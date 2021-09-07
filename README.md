@@ -3,7 +3,7 @@
 Success Onwubuariri, MSC,PMP
 ===
 
-Lagos, Nigeria  |  successto5@gmail.com  | 2347036626423 | [linkedin](https://www.linkedin.com/in/success-onwubuariri-msc-pmp-15a999119/)  |  [Github](https://github.com/successto4/CV)
+Lagos, Nigeria  |  successto4@gmail.com  | 2347036626423 | [linkedin](https://www.linkedin.com/in/success-onwubuariri-msc-pmp-15a999119/)  |  [Github](https://github.com/successto4/CV)
 
 I am an open-minded, dedicated, disciplined, and self-motivated professional with a passion for technology and humanity. 
 Currently seeking for new exciting challenges and opportunity in the global tech industry where I can learn and apply
