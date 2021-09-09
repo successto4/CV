@@ -30,7 +30,17 @@ Job functions:
 - *Sales of debit cards and tokens.*
 - *Respond to customer inquiries and resolve them promptly.*
 - *Participating in projects.*
-- *Pitching ideas in order to improve customer experience amongst others.*
+- *Pitching ideas to improve customer experience amongst others.*
+
+**Sutoon’s Solutions,** IT Support and Software Project Assistant, February 2016 - May 2018
+
+ I got involved in freelance and self-employed work after my MSC.  Programme.<br>
+ Job functions:
+ 
+- *Resolving issues with systems, including boot up problems, internet issues, software/hardware installation, etc.*
+- *Assist with project software development, research and planning activities for clients.*
+- *IT Consultancy services.*
+
 
 **Lagos State Senior Model College, Kankon,** Nigeria, Computer and Data Processing Teacher, March 2012 - March 2013
 
@@ -44,11 +54,7 @@ Responsibilities:
 - *Maintained students’ administrative and academic records.*
 - *Maintained cordial relationships with parents and liaised with them to resolve problems.*
 
-
 # Education And Certifications
-
-**University of Nigeria, Nsukka**, Nigeria. _December 2016 - December 2023_
-- PHD. Computer Science (In View)
 
 **University of Nigeria Nsukka**, Nigeria. _December 2011 - December 2015_
 - MSC. Computer Science
